@@ -1,4 +1,4 @@
----Readme-file-for-Laziter-archive---------------------------
+# Laziter space game (circa 1986)
 
 This archive contains a primitive DOS-based arcade game that 
 I wrote around 1986.  This was back when an IBM PC/AT was 
@@ -17,10 +17,10 @@ The game ends when you have no more ships left.
 
 The controls are simple:
 
-  Press the SPACE key to begin the game, or the ESC
+* Press the SPACE key to begin the game, or the ESC
   key to end the game.
 
-  During the game, press the left and right cursor
+* During the game, press the left and right cursor
   keys to move the spaceship and press the spacebar
   to fire the spaceship's laser.
 
@@ -31,4 +31,10 @@ been switched to full-screen mode before running the game.
 
 I hope you find this bit of nostalgia entertaining.
 
----Readme-file-for-Laziter-archive---------------------------
+---
+
+![image](gameplay_video.mp4)
+
+---
+
+---end---
