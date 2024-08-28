@@ -31,10 +31,4 @@ been switched to full-screen mode before running the game.
 
 I hope you find this bit of nostalgia entertaining.
 
----
-
-[gameplay_video.mp4](gameplay_video.mp4)
-
----
-
 ---end---
