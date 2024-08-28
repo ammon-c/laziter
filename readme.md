@@ -33,7 +33,7 @@ I hope you find this bit of nostalgia entertaining.
 
 ---
 
-![image](gameplay_video.mp4)
+[gameplay_video.mp4](gameplay_video.mp4)
 
 ---
 
